@@ -54,7 +54,7 @@ GEM
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
     sixarm_ruby_unaccent (1.1.1)
-    slack-ruby-client (0.4.0)
+    slack-ruby-client (0.13.1)
       eventmachine
       faraday
       faraday_middleware
